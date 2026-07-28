@@ -17,7 +17,7 @@ This repository serves as a central hub for all my Python projects. Each project
 | 05 | Grade Calculator | ✅ | https://github.com/samartyoddhadev-maker/grade-calculator |
 | 06 | Word Scrambler | ✅ | https://github.com/samartyoddhadev-maker/word-scrambler |
 | 07 | Music Recommender | ✅ | https://github.com/samartyoddhadev-maker/music-recommender |
-| 08 | Random Name Generator | 🚧 Coming Soon |
+| 08 | Random Name Generator | ✅ | https://github.com/samartyoddhadev-maker/random-name-generator |
 | 09 | Reverse Name | 🚧 Coming Soon |
 | 10 | Vowel Counter | 🚧 Coming Soon |
 | 11 | Coin Flip Game | 🚧 Coming Soon |
