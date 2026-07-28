@@ -18,9 +18,9 @@ This repository serves as a central hub for all my Python projects. Each project
 | 06 | Word Scrambler | ✅ | https://github.com/samartyoddhadev-maker/word-scrambler |
 | 07 | Music Recommender | ✅ | https://github.com/samartyoddhadev-maker/music-recommender |
 | 08 | Random Name Generator | ✅ | https://github.com/samartyoddhadev-maker/random-name-generator |
-| 09 | Reverse Name | 🚧 Coming Soon |
-| 10 | Vowel Counter | 🚧 Coming Soon |
-| 11 | Coin Flip Game | 🚧 Coming Soon |
+| 09 | Reverse Name Generator | ✅ | https://github.com/samartyoddhadev-maker/reverse-name-generator |
+| 10 | Vowel Counter | ✅ | https://github.com/samartyoddhadev-maker/vowel-counter |
+| 11 | Coin Flip Game | ✅ | https://github.com/samartyoddhadev-maker/coin-flip-game |
 | 12 | Recipe Generator | 🚧 Coming Soon |
 | 13 | Color Mixer | 🚧 Coming Soon |
 | 14 | Guess the Word | 🚧 Coming Soon |
