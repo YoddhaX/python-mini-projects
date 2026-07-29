@@ -26,9 +26,9 @@ This repository serves as a central hub for all my Python projects. Each project
 | 14 | Guess the Word Game | ✅ | https://github.com/samartyoddhadev-maker/guess-the-word-game |
 | 15 | Guess the Number Game | ✅ | https://github.com/samratyoddhadev/guess-the-number |
 | 16 | Countdown Timer | ✅ | https://github.com/samartyoddhadev-maker/countdown-timer |
-| 17 | Calculator | 🚧 Coming Soon |
-| 18 | Related Word Game | 🚧 Coming Soon |
-| 19 | Memory Sequence Game | 🚧 Coming Soon |
+| 17 | Simple Calculator | ✅ | https://github.com/samratyoddhadev/simple-calculator |
+| 18 | Word Association Game | ✅ | https://github.com/samratyoddhadev/word-association-game |
+| 19 | Memory Sequence Game | ✅ | https://github.com/samratyoddhadev/memory-sequence-game |
 | 20 | Rock Paper Scissors | 🚧 Coming Soon |
 | 21 | Task Manager | 🚧 Coming Soon |
 | 22 | Simple Chat Bot | 🚧 Coming Soon |
