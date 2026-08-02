@@ -37,6 +37,7 @@ This repository serves as a central hub for all my Python projects. Each project
 | 25 | Password Generator | ✅ | https://github.com/YoddhaX/password-generator |
 | 26 | Ultimate Quiz Challenge | ✅ | https://github.com/YoddhaX/ultimate-quiz-challenge |
 | 27 | Pomodoro Timer | ✅ | https://github.com/YoddhaX/pomodoro-timer |
+| 28 | Forest Adventure Game | ✅ | https://github.com/YoddhaX/forest-adventure-game |
 ---
 
 ## 🛠️ Technologies
