@@ -31,7 +31,7 @@ This repository serves as a central hub for all my Python projects. Each project
 | 19 | Memory Sequence Game | ✅ | https://github.com/samratyoddhadev/memory-sequence-game |
 | 20 | Rock Paper Scissors Game | ✅ | https://github.com/samratyoddhadev/rock-paper-scissors-game |
 | 21 | Task Manager | ✅ | https://github.com/YoddhaX/task-manager |
-| 22 | Simple Chat Bot | 🚧 Coming Soon |
+| 22 | Simple ChatBot | ✅ | https://github.com/YoddhaX/simple-chatbot |
 | 23 | Word Counter | 🚧 Coming Soon |
 | 24 | Currency Converter | 🚧 Coming Soon |
 | 25 | Password Generator | 🚧 Coming Soon |
