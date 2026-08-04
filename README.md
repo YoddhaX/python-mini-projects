@@ -40,6 +40,7 @@ This repository serves as a central hub for all my Python projects. Each project
 | 28 | Forest Adventure Game | ✅ | https://github.com/YoddhaX/forest-adventure-game |
 | 29 | Tkinter Calculator | ✅ | https://github.com/YoddhaX/tkinter-calculator |
 | 30 | My First Tkinter App | ✅ | https://github.com/YoddhaX/my-first-tkinter-app |
+| 31 | Simple Drawing App | ✅ | https://github.com/YoddhaX/simple-drawing-app |
 ---
 
 ## 🛠️ Technologies
